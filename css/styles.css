@@ -1,10 +1,13 @@
 body {
   background-color: #7EB1C2;
   text-align: center;
+  color: #C4065F;
+  font-family: 'Coming Soon', cursive;
 }
 
 h1, h2, h3 {
   font-family: 'Yellowtail', cursive;
+  color: #FA0577;
 }
 
 h1 {
@@ -26,4 +29,26 @@ div {
 
 ul {
   text-align: left;
+}
+
+a {
+  text-decoration: none;
+  font-size: 1.5em;
+}
+
+a:hover {
+  color: #C4065F;
+}
+
+.baby {
+  border-radius: 10%;
+  padding: 20px;
+}
+
+#readingdragon {
+  border-radius: 50%;
+}
+
+#dragontales {
+  border-radius: 10%;
 }
